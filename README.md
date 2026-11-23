@@ -1,4 +1,4 @@
-# Historical Map Georeferencing
+# Georeferencing of historical maps
 ## Overview
 This project explores feature-based and coordinate-based georeferencing workflows in ArcGIS Pro.
 
