@@ -5,7 +5,7 @@ This project explores feature-based and coordinate-based georeferencing workflow
 The objective was to evaluate different transformation methods, assess positional accuracy, and identify common sources of georeferencing error when working with historical maps.
 
 ## Data
-- Historical Map of Austria. Source: David Rumsey Map Collection "Karta öfver Österrike" (1821)
+- Historical Map of Austria. Source: David Rumsey Map Collection, David Rumsey Map Center, Stanford University Libraries. "Karta öfver Österrike" (1821)
 - USGS Jersey City Map. Source: USGS TopoView, Year: 1955, Projection: NAD 1927
 
 ## Methods
